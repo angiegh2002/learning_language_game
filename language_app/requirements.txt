@@ -1,7 +1,0 @@
-fastapi
-uvicorn
-sqlalchemy
-pydantic
-passlib[bcrypt]
-python-jose[cryptography]
-httpx  # لو تريد استخدام async http requests
